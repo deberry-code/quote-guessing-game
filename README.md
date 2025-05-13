@@ -28,7 +28,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/quotes-scraper-guessing-game.git
+git clone https://github.com/deberry-code/quotes-scraper-guessing-game.git
 cd quotes-scraper-guessing-game
 
 ```
@@ -51,7 +51,7 @@ pip install requests beautifulsoup4
 ### 4. Run the App
 
 ```bash
-python3 yourscriptname.py
+python3 quote_guessing_game.py
 
 ```
 
