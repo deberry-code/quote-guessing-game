@@ -20,7 +20,7 @@
 ---
 
 ## Screenshots/Diagrams
-![image](https://github.com/user-attachments/assets/75cd88c5-88bd-41a2-9205-d04f67634987)
+![image](https://github.com/user-attachments/assets/897033dd-0a84-4133-a0fb-34775d63170b)
 
 ---
 ## How to Install/Run
