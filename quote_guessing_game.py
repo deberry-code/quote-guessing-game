@@ -25,9 +25,6 @@ def nextpg():
         for i in quotes:
           everyquote.append({'Quote': i.find(class_='text').get_text(), 'Author': i.find(class_='author').get_text(), 'Bio link:': f"{baseurl}{i.find('a')['href']}"})
 
-nextpg()
-
-print(len(everyquote))
 
 def game():
   tries=4
@@ -35,7 +32,7 @@ def game():
   print(guessthis['Quote'])
   for i in range(0, tries+1):
     if i ==tries:
-      print("You lost. :(")
+      print(f"Wrong! It was {guessthis['Author']}. You lost. :(")
       break
     else:
       yourguess=input("Who do you think said this quote? ")
