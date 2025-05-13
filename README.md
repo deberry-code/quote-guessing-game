@@ -20,7 +20,9 @@
 ---
 
 ## Screenshots/Diagrams
+![image](https://github.com/user-attachments/assets/75cd88c5-88bd-41a2-9205-d04f67634987)
 
+---
 ## How to Install/Run
 
 ### 1. Clone the Repository
